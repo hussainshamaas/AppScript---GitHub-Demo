@@ -1,0 +1,12 @@
+{
+  "timeZone": "America/New_York",
+  "dependencies": {
+    "libraries": [{
+      "userSymbol": "SheetFunctions",
+      "libraryId": "1tMLH6XN-j4yRNW9uThpFxiZg2qW0UL6pRbnrG18GW1eJo81FezGJWClC",
+      "version": "1",
+      "developmentMode": true
+    }]
+  },
+  "exceptionLogging": "STACKDRIVER"
+}
